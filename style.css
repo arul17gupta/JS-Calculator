@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+    background:#005555 ;
+   padding: 10px;
+}
+table{
+    margin: auto; 
+    
+}
+ input{
+     font-size: 34px; 
+     border: 5px solid #F8B400;
+     border-radius: 10px;
+ }
+ button{
+   border-radius: 20px;
+    font-size: 40px;
+    background: #6FDFDF;
+    width: 103px;
+    height: 56px;
+}
+h1{
+   color: rgb(255, 0, 0);
+}
+ 
